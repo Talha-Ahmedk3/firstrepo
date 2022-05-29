@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(257,227,234);
+    margin: 0;
+    padding: 0;
+}
+
+.center{
+    width: 700px;
+    height: 450px;
+    background-color: white;
+    margin-left: 550px;
+    margin-top: 80px;
+}
+
+.picture{
+    margin-top: -500px;
+    margin-left: 200px;
+   box-shadow: 50px;
+}
+
+.picture>img{
+    height: 550px;
+    width: 350px;
+    border: 1px black solid;
+}
+.text{
+    padding-left: 50px;
+    padding-top: 25px;
+    font-size: 50px;
+}
+.textdesc{
+    margin-left: 50px;
+    padding-right: 20px;
+    font-size: 20px;
+}
+.buttons{
+    margin-top: -500px;
+    margin-left: 130px;
+}
